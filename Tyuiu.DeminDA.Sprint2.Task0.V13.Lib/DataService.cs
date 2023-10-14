@@ -26,7 +26,7 @@ namespace Tyuiu.DeminDA.Sprint2.Task0.V13.Lib
             res[5] = x >= y;
 
             return res;
-
+             
         }
     }
 }

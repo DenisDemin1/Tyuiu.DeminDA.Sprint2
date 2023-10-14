@@ -33,7 +33,7 @@ namespace Tyuiu.DeminDA.Sprint2.Task0.V13
             {
                 Console.WriteLine(res[i]);
             }
-
+             
             Console.ReadKey(); 
         }
     }

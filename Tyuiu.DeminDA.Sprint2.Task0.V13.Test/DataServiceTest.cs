@@ -18,7 +18,7 @@ namespace Tyuiu.DeminDA.Sprint2.Task0.V13.Test
             bool[] wait = new bool[6] { false, true, false, true, false, true };
 
             CollectionAssert.AreEqual(wait, res);
-
+             
         }
     }
 }
